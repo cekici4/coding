@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n/**\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ Cagri\ Ekici\ \r\n\ @version\ 0.1\r\n\ \r\n\ This\ game\ is\ about\ Dante\ and\ his\ adventure\ trying\ to\ escape\ hell\ \r\n\ through\ descending\ it\ and\ coming\ out\ on\ the\ other\ side\ of\ the\ eart.\r\n\ \r\n\ Features\:\r\n\ -\ Basic\ movement\ and\ attack\ options\r\n\ -\ Health\ system\r\n\ -\ Mana\ system\r\n\ -\ Enemy\ system\r\n\ -\ Boss\ system\r\n\ -\ NPC\ system\r\n\ -\ Very\ cool\ art\r\n\ \r\n\ Implemented\:\r\n\ -\ World\ continues,\ Dante\ can\ go\ back\ and\ forth\ \r\n\ -\ Dante\ can\ move\r\n\ -\ Dante\ can\ shoot\r\n\ -\ Mana\ regenerates\r\n\ -\ World\ has\ test\ ending\r\n\ -\ World\ has\ death\ screen\ and\ retry\r\n\ -\ World\ has\ level\ chose\ options\r\n\ -\ Forest\ beast\ work\r\n\ -\ Virgil\ implementation,\ talk\ screen\r\n\ -\ Dante\ can\ interact\ with\ world\r\n\ \r\n\ Not\ done\:\ \r\n\ -\ basic\ enemies\ attacking\r\n\ -\ quest\ system\r\n\ -\ story\ lines\r\n\ \r\n\ Needs\ work\:\r\n\ -\ mana\ bar\r\n\ -\ health\ bar\r\n\ -\ Dante\ turn\r\n\ -\ Story\ text\r\n\ -\ Lost\ souls\r\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkMouseL()
+comment4.params=
+comment4.target=void\ changeTo()
+numComments=5

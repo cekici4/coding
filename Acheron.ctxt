@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Acheron
+comment0.text=\r\n\ class\ for\ acheron\ world,\ does\ same\ as\ forest\ and\ entryHell\r\n
+comment1.params=
+comment1.target=Acheron()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkcountBgAcheron()
+comment4.params=
+comment4.target=void\ checkDante()
+comment5.params=
+comment5.target=void\ changeBg()
+comment6.params=
+comment6.target=void\ checkMouseL()
+comment7.params=
+comment7.target=void\ spawnLostSoul()
+comment8.params=
+comment8.target=void\ checkHit()
+numComments=9

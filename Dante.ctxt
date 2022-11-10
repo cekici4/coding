@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Dante
+comment0.text=\r\n\ actor\ dante,\ move\ options\ and\ behaviour\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Dante()
+comment3.params=
+comment3.target=void\ checkDante()
+comment4.params=
+comment4.target=void\ moveAround()
+comment5.params=
+comment5.target=void\ fall()
+comment6.params=
+comment6.target=void\ checkFalling()
+comment7.params=
+comment7.target=void\ jump()
+comment8.params=
+comment8.target=void\ fireProjectile()
+comment9.params=
+comment9.target=void\ replenishMana()
+numComments=10

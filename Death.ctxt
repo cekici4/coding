@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Death
+comment0.text=\r\n\ this\ class\ is\ the\ death\ screen,\ if\ called\ shows\ a\ death\ screen,\ with\ try\ again\ option\r\n
+comment1.params=
+comment1.target=Death()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkMouseL()
+comment4.params=
+comment4.target=void\ changeTo()
+numComments=5

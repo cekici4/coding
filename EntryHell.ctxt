@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=EntryHell
+comment0.text=\r\n\ This\ class\ is\ the\ world\ for\ entry\ hell,\ does\ the\ same\ as\ forest,\ but\ with\ a\ switch\r\n
+comment1.params=
+comment1.target=EntryHell()
+comment10.params=
+comment10.target=void\ enterHell()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkCountBgHell()
+comment4.params=
+comment4.target=void\ checkDante()
+comment5.params=
+comment5.target=void\ changeBg()
+comment6.params=
+comment6.target=void\ spawnVirgil()
+comment7.params=
+comment7.target=void\ checkMouseL()
+comment8.params=
+comment8.target=void\ virgilTalk()
+comment9.params=
+comment9.target=void\ killPicture()
+numComments=11
